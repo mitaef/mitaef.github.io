@@ -6,7 +6,7 @@
     <description>Recent content on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
       <link>/project/project1/</link>
@@ -41,6 +41,24 @@
       
       <guid>/project/project4/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Aaaa</title>
+      <link>/post/aaaa/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/aaaa/</guid>
+      <description>dddd</description>
+    </item>
+    
+    <item>
+      <title>Tes Artikel</title>
+      <link>/post/tes-artikel/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tes-artikel/</guid>
+      <description>halooooooooooooooooooooo</description>
     </item>
     
     <item>
