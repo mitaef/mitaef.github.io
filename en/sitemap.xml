@@ -58,13 +58,13 @@
                 href="https://www.mitaef.my.id/categories/"
                 />
   </url><url>
+    <loc>https://www.mitaef.my.id/tags/haccp/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.mitaef.my.id/p/haccp-gmp/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.mitaef.my.id/tags/hacpp/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mitaef.my.id/categories/hacpp/</loc>
+    <loc>https://www.mitaef.my.id/categories/haccp/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mitaef.my.id/post/</loc>
@@ -98,28 +98,17 @@
                 href="https://www.mitaef.my.id/tags/"
                 />
   </url><url>
-    <loc>https://www.mitaef.my.id/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mitaef.my.id/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.mitaef.my.id/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.mitaef.my.id/page/"
-                />
-  </url><url>
     <loc>https://www.mitaef.my.id/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.mitaef.my.id/zh-cn/%E5%85%B3%E4%BA%8E/"
+                hreflang="id"
+                href="https://www.mitaef.my.id/id/tentang-saya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.mitaef.my.id/nl/over-mij/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,9 +116,26 @@
                 href="https://www.mitaef.my.id/about/"
                 />
   </url><url>
-    <loc>https://www.mitaef.my.id/_index.id-id/</loc>
+    <loc>https://www.mitaef.my.id/page/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.mitaef.my.id/id/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.mitaef.my.id/nl/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.mitaef.my.id/page/"
+                />
   </url><url>
-    <loc>https://www.mitaef.my.id/categories/haccp/</loc>
+    <loc>https://www.mitaef.my.id/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.mitaef.my.id/links/</loc>
   </url><url>

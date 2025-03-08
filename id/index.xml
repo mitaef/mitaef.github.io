@@ -6,6 +6,15 @@
         <description>Recent content on Food Tech</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>id</language>
-        <copyright>ME Fitriani</copyright><atom:link href="https://www.mitaef.my.id/id/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>ME Fitriani</copyright><atom:link href="https://www.mitaef.my.id/id/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tentang saya</title>
+        <link>https://www.mitaef.my.id/id/tentang-saya/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.mitaef.my.id/id/tentang-saya/</guid>
+        <description>&lt;p&gt;Seorang teknolog pangan yang bersemangat dan berdomisili di Den Haag, Belanda, dengan fokus kuat pada jaminan kualitas dan kepatuhan dalam industri pangan. Dengan pengalaman sebagai Auditor dan Analis Penyaringan di Otoritas Pengawasan Makanan dan Pakan Halal, saya telah berhasil menyederhanakan proses dan meningkatkan waktu respons untuk pertanyaan klien. Latar belakang saya meliputi pengajaran teknologi pangan di Universitas Bumigora dan mendirikan Lombok Market 2020, tempat saya menghubungkan pemasok lokal dengan masyarakat selama pandemi. Saya memegang gelar Magister Teknologi Pangan dari Universitas Wageningen dan berdedikasi untuk memastikan keamanan dan kualitas pangan.&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>

@@ -29,18 +29,6 @@
                 href="https://www.mitaef.my.id/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://www.mitaef.my.id/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.mitaef.my.id/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.mitaef.my.id/zh-cn/page/"
-                />
-  </url><url>
     <loc>https://www.mitaef.my.id/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -66,18 +54,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.mitaef.my.id/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://www.mitaef.my.id/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.mitaef.my.id/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.mitaef.my.id/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
     <loc>https://www.mitaef.my.id/zh-cn/</loc>

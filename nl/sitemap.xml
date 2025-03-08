@@ -29,6 +29,40 @@
                 href="https://www.mitaef.my.id/nl/categories/"
                 />
   </url><url>
+    <loc>https://www.mitaef.my.id/nl/over-mij/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.mitaef.my.id/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.mitaef.my.id/id/tentang-saya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.mitaef.my.id/nl/over-mij/"
+                />
+  </url><url>
+    <loc>https://www.mitaef.my.id/nl/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.mitaef.my.id/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.mitaef.my.id/id/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.mitaef.my.id/nl/page/"
+                />
+  </url><url>
     <loc>https://www.mitaef.my.id/nl/tags/</loc>
     <xhtml:link
                 rel="alternate"
